@@ -138,6 +138,7 @@ namespace EntityStates.Nemforcer {
                     blastAttack.procCoefficient = HammerSlam.procCoefficient;
                     blastAttack.position = center;
                     blastAttack.attacker = base.gameObject;
+                    blastAttack.inflictor = base.gameObject;
                     blastAttack.crit = Util.CheckRoll(base.characterBody.crit, base.characterBody.master);
                     blastAttack.baseDamage = base.characterBody.damage * HammerSlam.damageCoefficient;
                     blastAttack.falloffModel = BlastAttack.FalloffModel.None;

@@ -36,6 +36,8 @@
     "NEMFORCER_UTILITY_CRASH_DESCRIPTION" : "<style=cIsUtility>Grappling.</style> Jump into the air, then slam down for <style=cIsDamage>2400% damage</style>. <style=cIsUtility>Deals reduced damage outside the center of the impact.</style>",
     "NEMFORCER_SPECIAL_MINIGUNUP_NAME" : "Suppression Stance",
     "NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION" : "Take an offensive stance, <style=cIsDamage>readying your minigun</style>. <style=cIsHealth>Prevents sprinting</style>.",
+    "NEMFORCER_SPECIAL_MINIGUNDOWN_NAME" : "Endurance Stance",
+    "NEMFORCER_SPECIAL_MINIGUNDOWN_DESCRIPTION" : "Take a neutral stance, <style=cIsUtility>un-readying your minigun</style>.",
     "NEMFORCERBODY_DEFAULT_SKIN_NAME" : "Nemesis",
     "NEMFORCERBODY_ENFORCER_SKIN_NAME" : "Enforcer",
     "NEMFORCERBODY_CLASSIC_SKIN_NAME" : "Classic",

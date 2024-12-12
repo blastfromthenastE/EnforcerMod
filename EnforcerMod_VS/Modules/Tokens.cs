@@ -309,7 +309,8 @@ namespace Modules {
             LanguageAPI.Add("NEMFORCER_SPECIAL_MINIGUNUP_NAME", "Suppression Stance");
             LanguageAPI.Add("NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION", "Take an offensive stance, <style=cIsDamage>readying your minigun</style>. <style=cIsHealth>Prevents sprinting</style>.");
 
-
+            LanguageAPI.Add("NEMFORCER_SPECIAL_MINIGUNDOWN_NAME", "Endurance Stance");
+            LanguageAPI.Add("NEMFORCER_SPECIAL_MINIGUNDOWN_DESCRIPTION", "Take a neutral stance, <style=cIsUtility>un-readying your minigun</style>.");
             #endregion Special
 
             #endregion SKills
